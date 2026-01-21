@@ -9,7 +9,7 @@ const Footer: React.FC = () => {
         <div className="grid md:grid-cols-4 gap-12 mb-16">
           <div className="col-span-1 md:col-span-1">
             <div className="flex items-center space-x-2 mb-6">
-              <img src="https://i.postimg.cc/p9jqBydf/logo-png.png" alt="Kaabax Academy Logo" className="h-10 w-auto" />
+              <img src="https://i.postimg.cc/kJx7P7T4/logo.png" alt="Kaabax Academy Logo" className="h-10 w-auto" />
               <span className="font-bold text-lg tracking-tight">KAABAX ACADEMY</span>
             </div>
             <p className="text-gray-500 text-sm leading-relaxed">

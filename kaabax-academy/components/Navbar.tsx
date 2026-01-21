@@ -19,7 +19,7 @@ const Navbar: React.FC = () => {
         <div className="flex justify-between items-center h-24">
           <div className="flex items-center">
             <Link to="/" className="flex items-center space-x-2">
-              <img src="/images/logo.png.png" alt="Kaabax Academy Logo" className="h-20 w-auto" />
+              <img src="https://i.postimg.cc/kJx7P7T4/logo.png" alt="Kaabax Academy Logo" className="h-20 w-auto" />
             </Link>
           </div>
 
